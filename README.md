@@ -1,17 +1,27 @@
 <h1 align="center">👋 Hi, I'm Rishabh Garg</h1>
 
 <p align="center">
-  🚀 <b>DevOps Engineer</b> | ☁️ Cloud Infrastructure | ⚙️ CI/CD | 🐳 Containers | ☸️ Kubernetes Enthusiast
+  🚀 <b>DevOps Engineer (2+ Years Experience)</b> | ☁️ Cloud Infrastructure | ⚙️ CI/CD | 🐳 Containers | ☸️ Kubernetes Enthusiast
 </p>
 
 ---
 
 ### 💫 About Me
-- 🔧 DevOps Engineer with hands-on experience in **automation, container orchestration, and CI/CD pipelines**  
-- 💻 Skilled in **Kubernetes**, **Jenkins**, **ArgoCD**, **Terraform**, **Ansible**, and **Istio**  
-- ☁️ Experienced with **Google Cloud (GCP)** and **Amazon Web Services (AWS)** for scalable infrastructure setups  
-- 📦 Strong background in **infrastructure as code**, **monitoring**, and **cloud-native architecture**  
-- 🌱 Continuously exploring **DevOps automation**, **infrastructure security**, and **SRE best practices**
+- 🔧 Results-driven **DevOps Engineer** with 2+ years of experience in **building, automating, and optimizing infrastructure** for scalable deployments  
+- 💻 Skilled in designing **end-to-end CI/CD pipelines**, **containerized microservices**, and **infrastructure as code (IaC)** for reliable delivery  
+- ☁️ Experienced with **GCP** and **AWS**, implementing **secure multi-cloud architectures** and managing **Kubernetes-based environments**  
+- 📦 Adept at improving **developer productivity**, **system reliability**, and **infrastructure efficiency** through automation  
+- 🌱 Currently exploring **AIOps**, **GitOps**, and **Cloud Cost Optimization (FinOps)** best practices  
+
+---
+
+### 💼 Experience & Highlights
+- 🏗️ **Implemented complete CI/CD pipelines** using Jenkins, ArgoCD, and GitLab CI to streamline deployment workflows across multiple environments  
+- ☸️ **Deployed and managed Kubernetes clusters** with Helm, Istio, and Terraform for microservices-based systems  
+- 🧰 Automated **infrastructure provisioning** using Terraform and Ansible, ensuring reproducibility and consistency across stages  
+- 📊 Integrated **Prometheus + Grafana** monitoring stack and **ELK-based observability**, reducing incident detection time by 40%  
+- 🔒 Strengthened security posture through **role-based access control (RBAC)** and **secrets management** integration  
+- 🚀 Collaborated closely with development teams to enable **zero-downtime releases** and optimize deployment pipelines  
 
 ---
 
@@ -53,6 +63,6 @@
 ---
 
 ### 💡 Quote to Code By
-> _"Automate Everything. Monitor Anything. Secure Everywhere."_
+> _"Automate Everything. Monitor Anything. Secure Everywhere."_  
 
-⭐️ **Thanks for visiting my profile!** Feel free to explore my repositories and projects.
+⭐️ **Thanks for visiting my profile!** Check out my repositories to see how I bring automation, scalability, and reliability together.
