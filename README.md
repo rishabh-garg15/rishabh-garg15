@@ -39,7 +39,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/rishabhgarg43" target="_blank">
+  <a href="https://www.linkedin.com/in/rishabh-garg-aa8976198" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rishabh.15march@gmail.com">
